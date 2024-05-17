@@ -1,0 +1,19 @@
+Issue Title: ...
+Issue Type: Bug
+
+Id:
+Priority: 
+Issue Status: 
+Author: Ignatova Tatiana
+Severity:
+Build:
+Environment:
+
+Issue Discription
+Steps to reproduce:
+1.First step
+2.Second step
+3.Third step 
+
+Expected Result:
+Actual Result:
