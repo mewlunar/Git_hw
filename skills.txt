@@ -1,0 +1,8 @@
+Скиллы которые будут изучены:
+Git
+JavaScript
+TypeScript
+Selenium
+Cucumber
+WebdriverIO
+Playwright
